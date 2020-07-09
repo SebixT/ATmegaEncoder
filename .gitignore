@@ -1,0 +1,6 @@
+/.git
+/.vs
+/enkoder.atsln
+/enkoder/Debug/*
+/enkoder/enkoder.componentinfo.xml
+/enkoder/enkoder.cproj
